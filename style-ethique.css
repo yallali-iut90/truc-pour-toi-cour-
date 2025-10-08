@@ -164,8 +164,10 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 
 }
-.modee{
-  margin-top: 10%;
+.section-image img{
+  width: 100%;
+  height: 800px;
+  object-fit: cover;
 }
 
 
